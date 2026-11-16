@@ -1,4 +1,4 @@
-# Bachelor's Thesis – Non-Monotonic Learning Curves in Unsupervised Anomaly Detection
+# Bachelor's Thesis – Analyzing the monotonicity and shape of learning curves in anomaly detection
 
 This repository contains the code and experimental work developed for my Bachelor's thesis in Computing Science at Radboud University.
 
